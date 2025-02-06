@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="813a545f-f5c0-4700-8b0b-fc1d4711c4f0" name="Changes" comment="" />
+    <list default="true" id="813a545f-f5c0-4700-8b0b-fc1d4711c4f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/configuration/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/configuration/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/controllers/ComunicazioneScheduledController.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/controllers/ComunicazioneScheduledController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/controllers/DatabaseSeederController.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/controllers/DatabaseSeederController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/JwtAuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/JwtAuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/appGestioneAziendale-main/src/main/java/com/example/appGestioneAziendale/security/SecurityConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "TigranPr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TigranPr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/TigranPr/appGestioneAziendale-main.git",
-    "accountId": "835e9248-4814-48cc-b4b9-393066557231"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TigranPr/appGestioneAziendale-main.git&quot;,
+    &quot;accountId&quot;: &quot;835e9248-4814-48cc-b4b9-393066557231&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2sOPN94OND5wIfHAwTkTYY646PU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,10 +45,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AppGestioneAziendaleApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tigra/Downloads/auth-system/auth-system"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,5 +63,28 @@
       <updated>1738323617597</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
